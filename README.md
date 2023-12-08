@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nishant Sharma aka @nishantrandev.
+- 👋 Hi, I’m Nishant Sharma.
 - 👀 I’m looking for entry level Data Analyst roles.
 - 🌱 I’m currently working on my portfolio projects and learning new skills.
 - 🌐 Open to collaboration and constantly conjuring new projects to push the boundaries of what data can reveal. Let's brew some data magic! 🚀✨
