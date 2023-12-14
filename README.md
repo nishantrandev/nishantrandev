@@ -3,6 +3,7 @@
 - 🌱 I’m currently working on my portfolio projects and learning new skills.
 - 🌐 Open to collaboration and constantly conjuring new projects to push the boundaries of what data can reveal. Let's brew some data magic! 🚀✨
 - 📫 I can be reached via email at: nishant_sharma1@outlook.com or through my [Linkedin Profile](https://www.linkedin.com/in/nishant-sharma-15026ba8/).
+- #### My Portfolio Projects can be viewed [here](https://github.com/nishantrandev/PortfolioProjects)
 
 <!---
 nishantrandev/nishantrandev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
